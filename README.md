@@ -5,6 +5,7 @@ Actualmente subo ejemplos de análisis de texto, corpus anotados y comparativas 
 
 📂 Proyectos destacados:
 - [Corpus anotado de reseñas] (https://github.com/anaemf21/analisis-opiniones/blob/main/corpus_sentimiento%20-%20Hoja%201.csv)
+- [Asistente virtual en Dialogflow] (https://github.com/anaemf21/chatbot_pasteleria/blob/main/frases_chatbot.csv)
 
 📩 Contacto: anaemf21@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/ana-elisabeth-moreno-fernandez-01b114382/
