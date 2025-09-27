@@ -4,7 +4,7 @@ Soy filóloga y correctora profesional interesada en Procesamiento del Lenguaje 
 Actualmente subo ejemplos de análisis de texto, corpus anotados y comparativas de correctores automáticos.
 
 📂 Proyectos destacados:
-- [Corpus anotado de reseñas]
+- [Corpus anotado de reseñas] (https://github.com/anaemf21/analisis-opiniones/blob/main/corpus_sentimiento%20-%20Hoja%201.csv)
 
 📩 Contacto: anaemf21@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/ana-elisabeth-moreno-fernandez-01b114382/
